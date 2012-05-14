@@ -1,0 +1,8 @@
+{
+    "name": "XDate",
+    "author": "Anders D. Johnson <AndersDJohnson@gmail.com>",
+    "description": "An extended JavaScript Date object.",
+    "keywords": ["Date"],
+    "version": "0.1.0",
+    "main": "./build/XDate"
+}
